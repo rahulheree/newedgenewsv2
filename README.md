@@ -82,7 +82,7 @@ Create a .env file in the root directory of the project. This file will store yo
 
 Add your database URL to the .env file.
 
-DATABASE_URL="postgresql://YOUR_DB_USER:YOUR_DB_PASSWORD@localhost/news_portal"
+DATABASE_URL="postgresql://YOUR_DB_USER:YOUR_DB_PASSWORD@localhost/urdb"
 SECRET_KEY="your-super-secret-key-for-jwt"
 ALGORITHM="HS256"
 
